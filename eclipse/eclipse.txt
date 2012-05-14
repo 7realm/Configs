@@ -9,9 +9,13 @@
 	a. completion overwrites
 	b. insert best guessed arguments
 	c. Favorites
-
-
-
+4. Java -> Editor -> Mark Occurences
+5. Java -> Templates
+	a. while configurations
+6. Java -> Code Style -> Formatter
+	a. import formatter configurations
+7. General -> Keys
+	a. delete key
 
 
 0. JadClipse.
