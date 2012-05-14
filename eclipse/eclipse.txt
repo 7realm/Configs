@@ -1,0 +1,17 @@
+1. General
+	a. Startup and Shutdown
+	b. Web Broswer
+2. Java -> Compiler
+	a. Error/Warnings
+	b. Javadoc
+	c. Task Tags
+3. Java -> Editor -> Content Assist
+	a. completion overwrites
+	b. insert best guessed arguments
+	c. Favorites
+
+
+
+
+
+0. JadClipse.
